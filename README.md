@@ -4,7 +4,7 @@ Repeated Identification with Featured Ion-Guided Stoichiometry (RI-FIGS) is a co
 ## RI-FIGS-ID.py
 The bootstrap aggregation linear discriminant analysis based identification.
 * mzML_file: the mzml file path
-* SSM_file: the spectrum spectrum match results file (csodiaq csv format)
+* SSM_file: the spectrum spectrum match results file (csodiaq csv format file before FDR filtering)
 * lib_file: the spectral library path
 * start_cycle: the cycle No. starts from
 * end_cycle: the cycle No. ends with
