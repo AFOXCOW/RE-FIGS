@@ -17,6 +17,7 @@ The bootstrap aggregation linear discriminant analysis based identification.
 * seed: the seed to randomly choose decoy.
 
 ## RI-FIGS-Quant.py
+label free quantification on DI-SPA data. 
 * mzML_file:the mzml file path
 * SSM_file: the final identification results file
 * lib_file: the spectral library path
