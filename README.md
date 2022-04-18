@@ -1,7 +1,7 @@
-# RI-FIGS
-Repeated Identification with Featured Ion-Guided Stoichiometry (RI-FIGS) is a complete and compact solution on DI-SPA data for more confident identifications and corresponding label free quantifications. 
+# RE-FIGS
+Repeated Enhancing with Featured Ion-Guided Stoichiometry (RE-FIGS) is a complete and compact solution on DI-SPA data for more confident identifications and corresponding label free quantifications. 
 
-## RI-FIGS-ID.py
+## RE-FIGS-ID.py
 The bootstrap aggregation linear discriminant analysis based identification.
 * mzML_file: the mzml file path
 * SSM_file: the spectrum spectrum match results file (csodiaq csv format file before FDR filtering)
@@ -16,7 +16,7 @@ The bootstrap aggregation linear discriminant analysis based identification.
 * scans_per_cycle: the scan number in each cycle.
 * seed: the seed to randomly choose decoy.
 
-## RI-FIGS-Quant.py
+## RE-FIGS-Quant.py
 label free quantification on DI-SPA data. 
 * mzML_file:the mzml file path
 * SSM_file: the final identification results file
